@@ -16,11 +16,9 @@ I am a brazilian ![Brazil flag 16x16](https://user-images.githubusercontent.com/
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>    
 
 <a href="https://github.com/ChristopherOakwood"/> 
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
 
 &nbsp;
-
 [![Christopher's github activity graph](https://activity-graph.herokuapp.com/graph?username=ChristopherOakwood&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!---
