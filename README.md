@@ -13,7 +13,10 @@ I am a brazilian ![Brazil flag 16x16](https://user-images.githubusercontent.com/
 <b> Where to find me </b>
 
 <a href="https://www.linkedin.com/in/christopher-carvalho-330685ba/"/>
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> 
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>    
+
+<a href="https://github.com/ChristopherOakwood"/> 
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 
 <!---
 ChristopherOakwood/ChristopherOakwood is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
