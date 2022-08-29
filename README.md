@@ -7,7 +7,7 @@
 
 I am a brazilian ![Brazil flag 16x16](https://user-images.githubusercontent.com/110235306/187130599-b2b8580b-7ae7-40de-a72c-1a2302375d23.png) to-be Data Analyst from <b> São Paulo, São Paulo </b>, looking forward to learn more about programming languages and coding
 &nbsp;
-<h3 align="center"> Programming Languages or platforms I'm Working with </h3>
+<h3 align="center"> Programming Languages or platforms I'm working with </h3>
 
 <img align="center">  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
