@@ -7,8 +7,8 @@ I am a brazilian ![Brazil flag 16x16](https://user-images.githubusercontent.com/
 &nbsp;
 ### Programming Languages or platforms I'm curretly Learning/Working with ###
 
-![R Studio 32x32 logo](https://user-images.githubusercontent.com/110235306/187125292-aaec30da-73fd-495c-9ce8-9a45311401af.png)  ![Python logo 32x32](https://user-images.githubusercontent.com/110235306/187126036-38812a17-1c02-4814-9139-925322d4edc0.png)
-&nbsp;
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 
 ### Where to find me ###
 
