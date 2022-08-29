@@ -15,9 +15,10 @@ I am a brazilian ![Brazil flag 16x16](https://user-images.githubusercontent.com/
 
 
 ### Where to find me ###
-<a href="https://linkedin.com/in/christopher-carvalho-330685ba/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/></a> 
+<a href="https://linkedin.com/in/christopher-carvalho-330685ba/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/>
 
-<a href="https://github.com/ChristopherOakwood"/> <img align="center" img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/ChristopherOakwood"/> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+</a> 
 
 &nbsp;
 [![Christopher's github activity graph](https://activity-graph.herokuapp.com/graph?username=ChristopherOakwood&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
