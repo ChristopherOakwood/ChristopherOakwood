@@ -20,8 +20,10 @@ I am a brazilian ![Brazil flag 16x16](https://user-images.githubusercontent.com/
 <a href="https://github.com/ChristopherOakwood"/> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
 </a> 
 
+<a href="https://www.upwork.com/freelancers/~013f0f4e1d37b9d349" target="blank"><img align="center" src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white"/>
+  </a>
+
 &nbsp;
 [![Christopher's github activity graph](https://activity-graph.herokuapp.com/graph?username=ChristopherOakwood&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<a href="https://www.upwork.com/freelancers/~013f0f4e1d37b9d349" target="blank"><img align="center" src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white"/>
-  </a>
+
