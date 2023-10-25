@@ -5,7 +5,7 @@
 
 <div align="center"> My name is Christopher Carvalho, you can reach me on @ChristopherOakwood </div>
 
-I am a brazilian ![Brazil flag 16x16](https://user-images.githubusercontent.com/110235306/187130599-b2b8580b-7ae7-40de-a72c-1a2302375d23.png) to-be Data Analyst from <b> São Paulo, São Paulo </b>, looking forward to learn more about programming languages and coding
+I am a brazilian ![Brazil flag 16x16](https://user-images.githubusercontent.com/110235306/187130599-b2b8580b-7ae7-40de-a72c-1a2302375d23.png) to-be Software Engineer from <b> São Paulo, São Paulo </b>, looking forward to learn more about programming languages and coding
 &nbsp;
 <h3 align="center"> Programming Languages or platforms I'm working with </h3>
 
